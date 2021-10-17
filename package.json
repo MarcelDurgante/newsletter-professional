@@ -1,0 +1,8 @@
+{
+  "name": "professional-newsletter",
+  "version": "1.0.0",
+  "description": "This is a clean and elegant Newsletter made by using HTML and few CSS  ",
+  "keywords": [],
+  "main": "index.html",
+  "dependencies": {}
+}
